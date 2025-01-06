@@ -3,12 +3,11 @@
 ---
 
 ### 프로젝트 동기
-<img src = ''>
-
+<img src = 'images/1.png'>
 <br/>
 
 ### 프로젝트 수행 도구
-
+<img src = 'images/프로젝트 수행도구.png'>
 <br/>
 
 ---
@@ -16,43 +15,54 @@
 ### 프로젝트 진행
 
 #### object detection model
-
+<img src = 'images/object detection model.png'>
 <br/>
 
 #### labeling
 - CVAT 사이트를 이용하여 다음과 같이 사진들에 labeling 처리
-
-  <br/>
+<img src = 'images/labeling.png'>
+<br/>
 
 #### wandb 학습내역 - YOLOV5
+<img src = 'images/wandb.png'>
+<br/>
 
 #### 아두이노 회로
-
+<img src = 'images/아두이노.png'>
+<br/>
 
 #### 졸음확률 예측
   1. 졸음이 유발되는 환경 조사
+  <img src = 'images/졸음확률 예측.png'>
+  <br/>
+  
   2. 머신러닝을 위한 환경 데이터 수집 및 전처리
+  <img src = 'images/졸음확률 예측2.png'>
+  <br/>
+  
   3. 선형회귀(Logistic)을 이용한 졸음확률 예측
-
-<br/>
+  <img src = 'images/졸음확률 예측3.png'>
+  <br/>
 
 ---
 
 #### 서비스 구조
-
+<img src = 'images/서비스구조.png'>
 <br/>
 
 #### 데이터 흐름
-
+<img src = 'images/데이터흐름.png'>
+<img src = 'images/데이터흐름2.png'>
 <br/>
 
 #### 웹 페이지
-
+<img src = 'images/웹페이지지.png'>
 <br/>
 
 ---
 
 #### 시연영상
+https://www.youtube.com/watch?v=tKGQWqB1VyQ&feature=youtu.be
 
 ---
 
