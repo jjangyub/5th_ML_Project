@@ -33,15 +33,15 @@
 
 #### 졸음확률 예측
   1. 졸음이 유발되는 환경 조사
-  <img src = 'images/졸음확률 예측.png'>
+  <img src = 'images/졸음확률1.png'>
   <br/>
   
   2. 머신러닝을 위한 환경 데이터 수집 및 전처리
-  <img src = 'images/졸음확률 예측2.png'>
+  <img src = 'images/졸음확률2.png'>
   <br/>
   
   3. 선형회귀(Logistic)을 이용한 졸음확률 예측
-  <img src = 'images/졸음확률 예측3.png'>
+  <img src = 'images/졸음확률3.png'>
   <br/>
 
 ---
@@ -56,7 +56,7 @@
 <br/>
 
 #### 웹 페이지
-<img src = 'images/웹페이지지.png'>
+<img src = 'images/웹페이지.png'>
 <br/>
 
 ---
